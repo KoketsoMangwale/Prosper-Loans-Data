@@ -32,7 +32,7 @@ https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif
 
 *****
 
-@@Files found in this directory@@
++ Files found in this directory
 - Part_I_exploration.ipynb:Exloration of the Prosper loans data
 - Part_I_exploration.html:
 - Part_II_slide_deck.ipynb: Presentaion of the Loans data analysis
