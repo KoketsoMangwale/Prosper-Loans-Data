@@ -27,7 +27,7 @@ I transformed the column: LoanOriginationQuarter into 2 columns: Year and Quarte
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
-![Main](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
+![Main](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
 https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif
 
 *****
