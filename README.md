@@ -38,8 +38,9 @@ IncomeVerifiable and LoanStatus.
 
 `Files found in this directory`
 - Part_I_exploration.ipynb
-- Part_II_slide_deck.ipynb
 - Part_I_exploration.html
+- Part_II_slide_deck.ipynb
 - Part_II_slide_deck.html
+- Part_II_slide_deck.slides
 - prosperLoanData.csv: Loans dataset
 - README.md
